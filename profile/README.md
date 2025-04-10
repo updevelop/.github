@@ -11,9 +11,9 @@ Estamos abiertos a colaborar en proyectos audaces que desafíen los límites de 
 📫 ¿Cómo contactarnos?
 Puedes alcanzarnos en:
 
-💌 Email: updevelop-it@gmail.com
-📞 Teléfono: 3152261373
-📱 WhatsApp: 3152261373
+💌 Email: contacto@updevelop.com.co
+📞 Teléfono: 3115214523 - 3114214523
+📱 WhatsApp: 3115214523
 😄 Pronombres
 Nosotros Up Develop - ¡Cualquiera que sea tu elección, estamos aquí para ayudar!
 
