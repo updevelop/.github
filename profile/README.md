@@ -12,7 +12,7 @@ Estamos abiertos a colaborar en proyectos audaces que desafíen los límites de 
 Puedes alcanzarnos en:
 
 💌 Email: contacto@updevelop.com.co
-📞 Teléfono: 3115214523 - 3114214523
+📞 Teléfono: 3115214523 - 3152261373
 📱 WhatsApp: 3115214523
 😄 Pronombres
 Nosotros Up Develop - ¡Cualquiera que sea tu elección, estamos aquí para ayudar!
@@ -21,3 +21,5 @@ Nosotros Up Develop - ¡Cualquiera que sea tu elección, estamos aquí para ayud
 ¿Sabías que el primer lenguaje de programación de alto nivel fue Fortran, desarrollado en los años 50? ¡Y aquí estamos, programando en tecnologías que ni siquiera eran un sueño en esa época!
 
 💬 ¿Listo para llevar tu proyecto al siguiente nivel? 🚀 ¡Esperamos tu mensaje!
+
+www.updevelop.com.co
